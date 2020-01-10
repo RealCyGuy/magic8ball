@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: magic8ball-realcyguy
+Version: 1.0
+Summary: Magic 8 ball answers.
+Home-page: https://github.com/realcyguy
+Author: Cyrus Yip
+Author-email: cyruscmyip1@gmail.com
+License: UNKNOWN
+Description: # magic8ball package
+        
+        Gets a list of magic 8 ball responses.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

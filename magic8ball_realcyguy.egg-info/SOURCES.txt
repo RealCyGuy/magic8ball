@@ -1,0 +1,7 @@
+README.md
+setup.py
+magic8ball/__init__.py
+magic8ball_realcyguy.egg-info/PKG-INFO
+magic8ball_realcyguy.egg-info/SOURCES.txt
+magic8ball_realcyguy.egg-info/dependency_links.txt
+magic8ball_realcyguy.egg-info/top_level.txt
