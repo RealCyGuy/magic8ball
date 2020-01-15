@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="magic_eight_ball",
-    version="1.1",
+    name="magic8ball",
+    version="1.1.1",
     author="Cyrus Yip",
     author_email="cyruscmyip1@gmail.com",
     description="Magic 8 ball answers.",
