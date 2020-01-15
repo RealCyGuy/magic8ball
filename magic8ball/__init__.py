@@ -1,4 +1,4 @@
-balllist = [
+list = [
     'Yes.',
     'No.',
     'Of course.',
