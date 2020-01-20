@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="magic8ball",
-    version="1.1.1",
+    version="1.1.2",
     author="Cyrus Yip",
     author_email="cyruscmyip1@gmail.com",
     description="Magic 8 ball answers.",
